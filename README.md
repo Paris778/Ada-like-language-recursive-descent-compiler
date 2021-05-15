@@ -3,7 +3,9 @@ An implementation of a syntax analyzer (SA) for an Ada-like language using a rec
 
 ## How to run
 
-Linux: 
-
-
-Windows: 
+#### Windows: 
+```bash
+./makeClean.bat
+./compile.bat
+./execute.bat
+```
