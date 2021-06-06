@@ -5,9 +5,9 @@ An implementation of a syntax analyzer (SA) for an Ada-like language using a rec
 
 #### Windows: 
 ```bash
-./makeClean.bat
-./compile.bat
-./execute.bat
+makeClean.bat
+compile.bat
+execute.bat
 ```
 
 ##
