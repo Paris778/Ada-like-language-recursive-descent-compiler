@@ -9,7 +9,9 @@ An implementation of a syntax analyzer (SA) for an Ada-like language using a rec
 ### The program iterates through the input and identifies the objects passed through the parser 
 ![Alt text](https://github.com/Paris778/Ada-like-language-recursive-descent-compiler/blob/main/compiler_screenshots/Capture.JPG "Title")
 
-### If a mistake is found, the program throws an exception with a stack trace and helpful error messages for the user including line numbers and expected tokens
+### If a mistake is found, the program throws an exception with a stack trace and helpful error messages for the user including line numbers and expected tokens.
+
+#### In this particular case, this program has a syntax error mispelling BEGIN as BEGIM
 ![Alt text](https://github.com/Paris778/Ada-like-language-recursive-descent-compiler/blob/main/compiler_screenshots/Capture2.JPG "Title")
 
 ## How to run
