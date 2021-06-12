@@ -23,4 +23,7 @@ compile.bat
 execute.bat
 ```
 
-##
+## Grammar Rules 
+
+![Alt text](https://github.com/Paris778/Ada-like-language-recursive-descent-compiler/blob/main/compiler_screenshots/Capture4.JPG "Title")
+![Alt text](https://github.com/Paris778/Ada-like-language-recursive-descent-compiler/blob/main/compiler_screenshots/Capture5.JPG "Title")
